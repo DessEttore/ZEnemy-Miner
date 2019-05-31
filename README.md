@@ -1,2 +1,0 @@
-# ZEnemy-Miner
-ZEnemy Miner
